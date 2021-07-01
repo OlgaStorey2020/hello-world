@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+HI humans!
+
+Eat code, sleep code, breath code!
